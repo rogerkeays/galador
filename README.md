@@ -53,7 +53,6 @@
   * [Keemo Arita](characters/keemo-arita.pdf?raw=true): Level 5 chaotic-good sirine fighter.
   * [Rou Cague](characters/rou-cague.pdf?raw=true): Level 4 neutral-good human fighter.
   * [Emelda Magnusdottir](characters/emelda-magnusdottir.pdf?raw=true): Level 1 lawful-neutral dwarf fighter.
-  * [Par Ohmsford](characters/par-ohmsford.pdf?raw=true): Level 1 neutral-evil human fighter.
   * [Genu Valgus](characters/genu-valgus.pdf?raw=true): Level 1 neutral-good elf cleric.
   * [Anarchos](characters/anarchos.pdf?raw=true): Level 1 neutral-evil human mage.
   * [Curio Goldenblade](characters/curio-goldenblade.pdf?raw=true): Level 1 lawful-good human paladin.
