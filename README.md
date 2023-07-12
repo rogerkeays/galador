@@ -7,6 +7,7 @@
 ## History
 
   * [Forgotten Legends of Galador](history/legends-of-galador.pdf?raw=true): A mysteriously unfinished record of the history of Galador supposedly written by the Eternal God Kalin, though due to the large number of spelling errors and poor style, it is usually attributed to a halfling or a kender. Possibly even Moonwick Lightfinger himself.
+  * [Damaged Parchments](history/damaged-parchments.pdf?raw=true): Some parchments stolen by the detestable Joawa and resold back to the city of Delaware in almost illegible condition. They contain the only known surviving backstory of the Gems of Power, the Eternal Gods, and the Bird of Doom.
 
 ## City Maps
 
@@ -27,7 +28,7 @@
 
 ## Characters (PCs)
 
-  * [Palmyra of Delaware](characters/palmyra-of-delaware.pdf?raw=true): Level 13 lawful-good elf mage.
+  * [Palmyra of Delaware](characters/palmyra-of-delaware.pdf?raw=true): Level 13 lawful-good elf mage. Prince of Delaware.
   * [Moonwick Lightfinger](characters/moonwick-lightfinger.pdf?raw=true): Level 9 chaotic-neutral kender thief.
   * [Matanzas Celsa](characters/matanzas-celsa.pdf?raw=true): Level 7 neutral-good dwarf fighter.
   * [Silverglade Sharpeye](characters/silverglade-sharpeye.pdf?raw=true): Level 6 chaotic-good elf fighter.
@@ -65,7 +66,7 @@
 
   * [Morgrin's Doom](adventures/morgrins-doom.pdf?raw=true): Track down and kill Morgrin, a threat to King Vallener's rule. But to even get to Morgrin, you'll have to first deal with a spy, a traitor, and a mad forester.
   * [Vallener's Letter](adventures/valleners-letter.pdf?raw=true): King Vallener needs a strong hero to take a letter to the Elven King in Arithas. Not an easy task in the chaotic lands of Galador, especially if the missive is stolen and taken into the Labyrinth...
-  * and many more we never recorded
+  * and many more we never recorded.
 
 ## Related Resources
 
