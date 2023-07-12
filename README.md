@@ -2,26 +2,26 @@
 
 *Galador* is a Dungeons and Dragons campaign setting kick-started in 1991 by a bunch of nerdy primary school kids, and surviving until the end of their high school days. Now it has a home on github, so your kids can join in on the fun too.
 
-## Continents
-
-  * [The Known World](maps/continents/world.jpg?raw=true):
-  * [Galador](): the main continent where most of the action happens.
-  * [Imnusa]():
-  * [Jrun]():
-  * [Aldred]():
-  * [Axe Island]():
-
-## Cities
-
-  * [Estramon](): the capital of Galador and home of the aging King Vallener.
-  * [Delaware]():
-  * [Elven City]():
-  * [Angerthas]():
-  * [The Caverns of Estramon](): the former dwelling of the Snake Men, now occupied by the Lizard Men, which is not a great improvement. Deeper in the caverns, other exiles have also found a home, though none dare to venture to the lowest levels where more than a few adventurers have met their end.
-
 ## History
 
   * [Forgotten Legends of Galador](): A mysteriously unfinished record of the history of Galador supposedly written by the Eternal God Kalin, though due to the large number of spelling errors and poor style, it is usually attributed to a halfling or kender. Possibly even [Moonwick Lightfinger]() himself.
+
+## Countries
+
+  * [The Known World](maps/countries/world.jpg?raw=true):
+  * [Galador](maps/countries/galador.1995.jpg?raw=true) ([1991](maps/countries/galador.1995.jpg?raw=true)): the main continent where most of the action happens.
+  * [Imnusa](maps/countries/imnusa.jpg?raw=true):
+  * [Jrun](maps/countries/jrun.jpg?raw=true):
+  * [Aldred](maps/countries/aldred.jpg?raw=true):
+  * [Axe Island](maps/countries/axe-island.jpg?raw=true):
+
+## Cities
+
+  * [Estramon](maps/cities/estramon.jpg?raw=true): the capital of Galador and home of the aging King Vallener.
+  * [Delaware](maps/cities/delaware.jpg?raw=true):
+  * [Elven City](maps/cities/elven-city.jpg?raw=true):
+  * [Angerthas](maps/cities/angerthas.jpg?raw=true):
+  * [The Caverns of Estramon](maps/caverns/caverns.pdf?raw=true): the former dwelling of the Snake Men, now occupied by the Lizard Men, which is not a great improvement. Deeper in the caverns, other exiles have also found a home, though none dare to venture to the lowest levels where more than a few adventurers have met their end.
 
 ## Characters (PCs)
 
