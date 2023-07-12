@@ -8,7 +8,7 @@
 
   * [Forgotten Legends of Galador](): A mysteriously unfinished record of the history of Galador supposedly written by the Eternal God Kalin, though due to the large number of spelling errors and poor style, it is usually attributed to a halfling or a kender. Possibly even [Moonwick Lightfinger]() himself.
 
-## Countries
+## Country Maps
 
   * [Galador](maps/countries/galador.1995.jpg?raw=true) ([1994](maps/countries/galador.1994.jpg?raw=true), [1991](maps/countries/galador.1991.jpg?raw=true)): the main continent where most of the action happens.
   * [Imnusa](maps/countries/imnusa.jpg?raw=true):
@@ -17,7 +17,7 @@
   * [Axe Island](maps/countries/axe-island.jpg?raw=true):
   * [The Known World](maps/countries/world.jpg?raw=true):
 
-## Cities
+## City Maps
 
   * [Estramon](maps/cities/estramon.jpg?raw=true): the capital of Galador and home of the aging King Vallener.
   * [Delaware](maps/cities/delaware.jpg?raw=true):
@@ -60,7 +60,7 @@
 
 ## Adventures
 
-  * [Morgrin's Doom]()
+  * [Morgrin's Doom](adventures/morgrins-doom.pdf?raw=true): Track down and kill Morgrin, a threat to King Vallener's rule. But to even get to Morgrin, you'll have to first deal with a spy, a traitor, and a mad forester.
   * [Vallener's Letter]()
 
 ## Related Resources
