@@ -61,7 +61,7 @@
 ## Adventures
 
   * [Morgrin's Doom](adventures/morgrins-doom.pdf?raw=true): Track down and kill Morgrin, a threat to King Vallener's rule. But to even get to Morgrin, you'll have to first deal with a spy, a traitor, and a mad forester.
-  * [Vallener's Letter]()
+  * [Vallener's Letter](adventures/valleners-letter.pdf?raw=true): King Vallener needs a strong hero to take a letter to the Elven King in Arithas. Not an easy task in the chaotic lands of Galador, especially if the missive is stolen and taken into the Labyrinth...
 
 ## Related Resources
 
