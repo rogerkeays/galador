@@ -6,24 +6,24 @@
 
 ## History
 
- * [Forgotten Legends of Galador](history/legends-of-galador.pdf?raw=true): A mysteriously unfinished record of the history of Galador supposedly written by the Eternal God Kalin, though due to the large number of spelling errors and poor style, it is usually attributed to a halfling or a kender. Possibly even [Moonwick Lightfinger](characters/moonwick-lightfinger.pdf?raw=true) himself.
+ * [Forgotten Legends of Galador](history/legends-of-galador.pdf?raw=true): A mysteriously unfinished record of the history of Galador supposedly written by the Eternal God Kalin, though due to the large number of spelling errors and poor style, it is usually attributed to a halfling or a kender. Possibly even Moonwick Lightfinger himself.
 
 ## City Maps
 
  * [Estramon](maps/cities/estramon.jpg?raw=true): the capital of Galador and home of the aging King Vallener.
- * [Delaware](maps/cities/delaware.jpg?raw=true):
- * [Elven City](maps/cities/elven-city.jpg?raw=true):
- * [Angerthas](maps/cities/angerthas.jpg?raw=true):
+ * [Delaware](maps/cities/delaware.jpg?raw=true): a thriving city in the province of Eleinoch surrounded by stunning cliffs.
+ * [Elven City](maps/cities/elven-city.jpg?raw=true): a forest city with few constructed dwellings since the elves returned to living in the trees.
+ * [Angerthas](maps/cities/angerthas.jpg?raw=true): a city of strategic military importance, being midway between human and elven settlements and protected on one side by the bottomless crevasse.
  * [The Caverns of Estramon](maps/cities/estramon-caverns.pdf?raw=true): the former dwelling of the Snake Men, now occupied by the Lizard Men, which is not a great improvement. Deeper in the caverns, other exiles have also found a home, though none dare to venture to the lowest levels where more than a few adventurers have met their end.
 
 ## Country Maps
 
  * [Galador](maps/countries/galador.1995.jpg?raw=true) ([1994](maps/countries/galador.1994.jpg?raw=true), [1991](maps/countries/galador.1991.jpg?raw=true)): the main continent where most of the action happens.
- * [Imnusa](maps/countries/imnusa.jpg?raw=true): home of the minotaurs.
- * [Jrun](maps/countries/jrun.jpg?raw=true):
- * [Aldred](maps/countries/aldred.jpg?raw=true):
- * [Axe Island](maps/countries/axe-island.jpg?raw=true):
- * [The Known World](maps/countries/world.jpg?raw=true):
+ * [Imnusa](maps/countries/imnusa.jpg?raw=true): home of the minotaurs, where the weak are quickly weeded out. Also a constant source of problems for the denizens of Galador.
+ * [Jrun](maps/countries/jrun.jpg?raw=true): a cold continent in the south waiting to be explored.
+ * [Aldred](maps/countries/aldred.jpg?raw=true): a difficult to reach isolated continent somewhere in the Cold Sea. Those who find this place tend to stay, mostly because they can't get back.
+ * [Axe Island](maps/countries/axe-island.jpg?raw=true): the home of the dwarves, where they sought refuge after the loss of their leader to the humans on their arrival to Galador.
+ * [The Known World](maps/countries/world.jpg?raw=true): a kender's approximation of the known world. May also include figments of the map-maker's imagination.
 
 ## Characters (PCs)
 
