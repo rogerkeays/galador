@@ -27,35 +27,35 @@
 
 ## Characters (PCs)
 
- * [Palmyra of Delaware](characters/palmyra-of-delaware.pdf?raw=true): Level 13 lawful-good elf mage
- * [Moonwick Lightfinger](characters/moonwick-lightfinger.pdf?raw=true): Level 9 chaotic-neutral kender thief
- * [Mantanzas Celsa](characters/mantazas-celsa.pdf?raw=true): Level 7 neutral-good dwarf fighter
- * [Silverglade Sharpeye](characters/silverglade-sharpeye.pdf?raw=true): Level 6 chaotic-good elf fighter
- * [Sir Morgy](characters/sir-morgy.pdf?raw=true): Level 5 lawful-good human paladin
- * [Getremen Ivaltone](characters/getremen-ivaltone.pdf?raw=true): Level 4 neutral-evil human mage
- * [Belmasta](characters/belmasta.pdf?raw=true): Level 4 lawful-neutral human sorcerer
- * [Sunstar](characters/sunstar.pdf?raw=true): Level 4 true-neutral human fighter
- * [Hengist Bellecost](characters/hengist-bellecost.pdf?raw=true): Level 3 neutral-good dwarf fighter
- * [Ironbeard Gurthang](characters/ironbeard-gurthang.pdf?raw=true): Level 3 lawful-neutral dwarf fighter
- * [Viking Torson](characters/viking-torson.pdf?raw=true): Level 3 chaotic-evil minotaur fighter
- * [Merek Bladesaw](characters/merek-bladesaw.pdf?raw=true): Level 1 chaotic-neutral half-elf fighter
- * [Alkirii Eagleworth](characters/alkirii-eagleworth.pdf?raw=true): Level 1 chaotic-good elf ranger
- * [Haqail Eagleworth](characters/haqail-eagleworth.pdf?raw=true): Level 1 neutral-good elf ranger
+ * [Palmyra of Delaware](characters/palmyra-of-delaware.pdf?raw=true): Level 13 lawful-good elf mage.
+ * [Moonwick Lightfinger](characters/moonwick-lightfinger.pdf?raw=true): Level 9 chaotic-neutral kender thief.
+ * [Mantanzas Celsa](characters/mantazas-celsa.pdf?raw=true): Level 7 neutral-good dwarf fighter.
+ * [Silverglade Sharpeye](characters/silverglade-sharpeye.pdf?raw=true): Level 6 chaotic-good elf fighter.
+ * [Sir Morgy](characters/sir-morgy.pdf?raw=true): Level 5 lawful-good human paladin.
+ * [Getremen Ivaltone](characters/getremen-ivaltone.pdf?raw=true): Level 4 neutral-evil human mage.
+ * [Belmasta](characters/belmasta.pdf?raw=true): Level 4 lawful-neutral human sorcerer.
+ * [Sunstar](characters/sunstar.pdf?raw=true): Level 4 true-neutral human fighter.
+ * [Hengist Bellecost](characters/hengist-bellecost.pdf?raw=true): Level 3 neutral-good dwarf fighter.
+ * [Ironbeard Gurthang](characters/ironbeard-gurthang.pdf?raw=true): Level 3 lawful-neutral dwarf fighter.
+ * [Viking Torson](characters/viking-torson.pdf?raw=true): Level 3 chaotic-evil minotaur fighter.
+ * [Merek Bladesaw](characters/merek-bladesaw.pdf?raw=true): Level 1 chaotic-neutral half-elf fighter.
+ * [Alkirii Eagleworth](characters/alkirii-eagleworth.pdf?raw=true): Level 1 chaotic-good elf ranger.
+ * [Haqail Eagleworth](characters/haqail-eagleworth.pdf?raw=true): Level 1 neutral-good elf ranger.
 
 ## Non-Playing Characters
 
- * [John Smith](characters/john-smith.pdf?raw=true): Level 7 lawful-neutral human fighter
- * [Epilla Marankon](characters/epilla-marankon.pdf?raw=true): Level 7 lawful-evil human mage
- * [Muskat Celsa](characters/muskat-celsa.pdf?raw=true): Level 7 neutral-evil dwarf thief
- * [Joawa](characters/joawa.pdf?raw=true): Level 6 chaotic-neutral human thief
- * [Keemo Arita](characters/keemo-arita.pdf?raw=true): Level 5 chaotic-good sirine fighter
- * [Rou Cague](characters/rou-cague.pdf?raw=true): Level 4 neutral-good human fighter
- * [Emelda Magnusdottir](characters/emelda-magnusdottir.pdf?raw=true): Level 1 lawful-neutral dwarf fighter
- * [Par Ohmsford](characters/par-ohmsford.pdf?raw=true): Level 1 neutral-evil human fighter
- * [Genu Valgus](characters/genu-valgus.pdf?raw=true): Level 1 neutral-good elf cleric
- * [Anarchos](characters/anarchos.pdf?raw=true): Level 1 neutral-evil human mage
- * [Curio Goldenblade](characters/curio-goldenblade.pdf?raw=true): Level 1 lawful-good human paladin
- * [Cliara Whitehorn](characters/cliara-whitehorn.pdf?raw=true): Level 1 neutral-good human cleric
+ * [John Smith](characters/john-smith.pdf?raw=true): Level 7 lawful-neutral human fighter.
+ * [Epilla Marankon](characters/epilla-marankon.pdf?raw=true): Level 7 lawful-evil human mage.
+ * [Muskat Celsa](characters/muskat-celsa.pdf?raw=true): Level 7 neutral-evil dwarf thief.
+ * [Joawa](characters/joawa.pdf?raw=true): Level 6 chaotic-neutral human thief.
+ * [Keemo Arita](characters/keemo-arita.pdf?raw=true): Level 5 chaotic-good sirine fighter.
+ * [Rou Cague](characters/rou-cague.pdf?raw=true): Level 4 neutral-good human fighter.
+ * [Emelda Magnusdottir](characters/emelda-magnusdottir.pdf?raw=true): Level 1 lawful-neutral dwarf fighter.
+ * [Par Ohmsford](characters/par-ohmsford.pdf?raw=true): Level 1 neutral-evil human fighter.
+ * [Genu Valgus](characters/genu-valgus.pdf?raw=true): Level 1 neutral-good elf cleric.
+ * [Anarchos](characters/anarchos.pdf?raw=true): Level 1 neutral-evil human mage.
+ * [Curio Goldenblade](characters/curio-goldenblade.pdf?raw=true): Level 1 lawful-good human paladin.
+ * [Cliara Whitehorn](characters/cliara-whitehorn.pdf?raw=true): Level 1 neutral-good human cleric.
 
 ## Adventures
 
