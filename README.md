@@ -59,7 +59,8 @@
 
 ## Deceased Characters
 
-  *
+  * Bimilimili: An elf who tragically fell in mysterious circumstances. Though his character sheet was burned, there have been reports of Bimilimili being resurrected or returning as a ghost. Is he alive, dead, or undead? No one can be certain as most records of this character no longer remain.
+
 ## Adventures
 
   * [Morgrin's Doom](adventures/morgrins-doom.pdf?raw=true): Track down and kill Morgrin, a threat to King Vallener's rule. But to even get to Morgrin, you'll have to first deal with a spy, a traitor, and a mad forester.
