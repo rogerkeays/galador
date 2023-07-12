@@ -29,7 +29,7 @@
 
  * [Palmyra of Delaware](characters/palmyra-of-delaware.pdf?raw=true): Level 13 lawful-good elf mage.
  * [Moonwick Lightfinger](characters/moonwick-lightfinger.pdf?raw=true): Level 9 chaotic-neutral kender thief.
- * [Mantanzas Celsa](characters/mantazas-celsa.pdf?raw=true): Level 7 neutral-good dwarf fighter.
+ * [Mantanzas Celsa](characters/mantanzas-celsa.pdf?raw=true): Level 7 neutral-good dwarf fighter.
  * [Silverglade Sharpeye](characters/silverglade-sharpeye.pdf?raw=true): Level 6 chaotic-good elf fighter.
  * [Sir Morgy](characters/sir-morgy.pdf?raw=true): Level 5 lawful-good human paladin.
  * [Getremen Ivaltone](characters/getremen-ivaltone.pdf?raw=true): Level 4 neutral-evil human mage.
