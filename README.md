@@ -2,13 +2,15 @@
 
 *Galador* is a Dungeons and Dragons campaign setting kick-started in 1991 by a bunch of nerdy primary school kids, and surviving until the end of their high school days. Now it has a home on github, so your kids can join in on the fun too.
 
+![Galador Map](maps/countries/galador.1991.jpg?raw=true)
+
 ## History
 
   * [Forgotten Legends of Galador](): A mysteriously unfinished record of the history of Galador supposedly written by the Eternal God Kalin, though due to the large number of spelling errors and poor style, it is usually attributed to a halfling or a kender. Possibly even [Moonwick Lightfinger]() himself.
 
 ## Countries
 
-  * [Galador](maps/countries/galador.1995.jpg?raw=true) ([1994](maps/countries/galador.1994.jpg?raw=true), [1991](maps/countries/galador.1995.jpg?raw=true)): the main continent where most of the action happens.
+  * [Galador](maps/countries/galador.1995.jpg?raw=true) ([1994](maps/countries/galador.1994.jpg?raw=true), [1991](maps/countries/galador.1991.jpg?raw=true)): the main continent where most of the action happens.
   * [Imnusa](maps/countries/imnusa.jpg?raw=true):
   * [Jrun](maps/countries/jrun.jpg?raw=true):
   * [Aldred](maps/countries/aldred.jpg?raw=true):
