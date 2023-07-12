@@ -4,7 +4,7 @@
 
 ## Continents
 
-  * [The Known World](blob/main/maps/continents/world.jpg?raw=true):
+  * [The Known World](maps/continents/world.jpg?raw=true):
   * [Galador](): the main continent where most of the action happens.
   * [Imnusa]():
   * [Jrun]():
