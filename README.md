@@ -23,7 +23,7 @@
   * [Delaware](maps/cities/delaware.jpg?raw=true):
   * [Elven City](maps/cities/elven-city.jpg?raw=true):
   * [Angerthas](maps/cities/angerthas.jpg?raw=true):
-  * [The Caverns of Estramon](maps/caverns/caverns.pdf?raw=true): the former dwelling of the Snake Men, now occupied by the Lizard Men, which is not a great improvement. Deeper in the caverns, other exiles have also found a home, though none dare to venture to the lowest levels where more than a few adventurers have met their end.
+  * [The Caverns of Estramon](maps/cities/estramon-caverns.pdf?raw=true): the former dwelling of the Snake Men, now occupied by the Lizard Men, which is not a great improvement. Deeper in the caverns, other exiles have also found a home, though none dare to venture to the lowest levels where more than a few adventurers have met their end.
 
 ## Characters (PCs)
 
