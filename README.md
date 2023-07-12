@@ -6,7 +6,7 @@
 
 ## History
 
-  * [Forgotten Legends of Galador](): A mysteriously unfinished record of the history of Galador supposedly written by the Eternal God Kalin, though due to the large number of spelling errors and poor style, it is usually attributed to a halfling or a kender. Possibly even [Moonwick Lightfinger]() himself.
+  * [Forgotten Legends of Galador](history/legends-of-galador.pdf?raw=true): A mysteriously unfinished record of the history of Galador supposedly written by the Eternal God Kalin, though due to the large number of spelling errors and poor style, it is usually attributed to a halfling or a kender. Possibly even [Moonwick Lightfinger]() himself.
 
 ## Country Maps
 
