@@ -20,10 +20,10 @@
 ## Country Maps
 
   * [Galador](maps/countries/galador.1995.jpg?raw=true): the main continent where most of the action happens. Galador houses many different races and peoples in a constant state of struggle.
-  * [Imnusa](maps/countries/imnusa.jpg?raw=true): home of the minotaurs, where the weak are quickly weeded out. Also a frequent source of problems for the denizens of Galador due to its proximity and the minotaurs skilled seamanship.
+  * [Imnusa](maps/countries/imnusa.jpg?raw=true): home of the minotaurs, where the weak are quickly weeded out. Also a frequent source of problems for the denizens of Galador due to its proximity and the minotaurs' skilled seamanship.
   * [Jrun](maps/countries/jrun.jpg?raw=true): a cold southern continent waiting to be explored.
-  * [Aldred](maps/countries/aldred.jpg?raw=true): a difficult to reach island somewhere in the Cold Sea. Those who find this place tend to stay, usually because they have no means to get back.
-  * [Axe Island](maps/countries/axe-island.jpg?raw=true): the home of the dwarves, where they sought refuge after the ignominious loss of their leader to the humans on their arrival to Galador.
+  * [Aldred](maps/countries/aldred.jpg?raw=true): a difficult to reach island somewhere in the Cold Sea. Those who find this place tend to stay, usually because they have no means to get back home.
+  * [Axe Island](maps/countries/axe-island.jpg?raw=true): the home of the dwarves, where they sought refuge after the ignominious loss of their leader to the humans upon their arrival to Galador.
   * [The World](maps/countries/world.jpg?raw=true): a kender's approximation of the known world. May also include figments of the map-maker's imagination.
 
 ## Characters (PCs)
@@ -60,7 +60,7 @@
 
 ## Deceased Characters
 
-  * Bimilimili: An elf who tragically fell in mysterious circumstances. Though his character sheet was burned, there have been reports of Bimilimili being resurrected or returning as a ghost. Is he alive, dead, or undead? No one can be certain as most records of this character no longer remain.
+  * Bimilimili: An elf who tragically fell in mysterious circumstances. Though his character sheet was burned, there have been reports of Bimilimili being resurrected or returning as a ghost. Is he alive, dead, or undead? Though no one can be certain, as most records of this character no longer remain, the Dungeon Master suspects he was eaten by a nandibear.
 
 ## Adventures
 
