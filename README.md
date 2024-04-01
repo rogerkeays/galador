@@ -7,7 +7,7 @@
 ## History
 
   * [Forgotten Legends of Galador](history/legends-of-galador.pdf?raw=true): A mysteriously unfinished record of the history of Galador supposedly written by the Eternal God Kalin, though due to the large number of spelling errors and poor style, it is usually attributed to a halfling or a kender. Possibly even Moonwick Lightfinger himself.
-  * [Damaged Parchments](history/damaged-parchments.pdf?raw=true): Some parchments stolen by the detestable Joawa and resold back to the city of Delaware in almost illegible condition. They contain the only known surviving backstory of the Gems of Power, the Eternal Gods, and the Bird of Doom.
+  * [Damaged Parchments](history/damaged-parchments.pdf?raw=true): Some parchments stolen by the detestable Joawa and resold back to the city of Delaware in almost illegible condition. They contain several unconfirmed myths about of the Gems of Power, the Eternal Gods, and the Bird of Doom.
 
 ## City Maps
 
@@ -66,6 +66,7 @@
 
   * [Morgrin's Doom](adventures/morgrins-doom.pdf?raw=true): Track down and kill Morgrin, a threat to King Vallener's rule. But to even get to Morgrin, you'll have to first deal with a spy, a traitor, and a mad forester.
   * [Vallener's Letter](adventures/valleners-letter.pdf?raw=true): King Vallener needs a strong hero to take a letter to the Elven King in Arithas. Not an easy task in the chaotic lands of Galador, especially if the missive is stolen and taken into the Labyrinth...
+  * [Gems of Power](adventures/gems-of-power.pdf?raw=true): Remnants of an adventure for four heroes, hand-picked by the good god Aesryn for a great task. Although most of the adventure has been lost to time, these parchments contain the only known surviving description of the Gems of Power.
   * And many more we never recorded.
 
 ## Related Resources
