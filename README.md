@@ -9,14 +9,6 @@
   * [Forgotten Legends of Galador](history/legends-of-galador.pdf?raw=true): A mysteriously unfinished record of the history of Galador supposedly written by the Eternal God Kalin, though due to the large number of spelling errors and poor style, it is usually attributed to a halfling or a kender. Possibly even Moonwick Lightfinger himself.
   * [Damaged Parchments](history/damaged-parchments.pdf?raw=true): Some parchments stolen by the detestable Joawa and resold back to the city of Delaware in almost illegible condition. They contain several unconfirmed myths about of the Gems of Power, the Eternal Gods, and the Bird of Doom.
 
-## City Maps
-
-  * [Estramon](maps/cities/estramon.jpg?raw=true): the capital of Galador and home of the aging King Vallener.
-  * [Delaware](maps/cities/delaware.jpg?raw=true): a thriving city in the province of Eleinoch surrounded by stunning cliffs.
-  * [Elven City](maps/cities/elven-city.jpg?raw=true): a forest city with few constructed dwellings since the elves returned to living in the trees.
-  * [Angerthas](maps/cities/angerthas.jpg?raw=true): a city of strategic military importance, being midway between human and elven settlements and protected on one side by The Bottomless Crevasse.
-  * [The Caverns of Estramon](maps/cities/estramon-caverns.pdf?raw=true): the former dwelling of the Snake Men, deep below Estramon. Now occupied by the Lizard Men, which is not a great improvement. Other exiles have also found a home here, though none dare to venture to the lowest levels where more than a few adventurers have met their end.
-
 ## Country Maps
 
   * [Galador](maps/countries/galador.1995.jpg?raw=true): the main continent where most of the action happens. Galador houses many different races and peoples in a constant state of struggle.
@@ -25,6 +17,14 @@
   * [Aldred](maps/countries/aldred.jpg?raw=true): a difficult to reach island somewhere in the Cold Sea. Those who find this place tend to stay, usually because they have no means to get back home.
   * [Axe Island](maps/countries/axe-island.jpg?raw=true): the home of the dwarves, where they sought refuge after the ignominious loss of their leader to the humans upon their arrival to Galador.
   * [The World](maps/countries/world.jpg?raw=true): a kender's approximation of the known world. May also include figments of the map-maker's imagination.
+
+## City Maps
+
+  * [Estramon](maps/cities/estramon.jpg?raw=true): the capital of Galador and home of the aging King Vallener.
+  * [Delaware](maps/cities/delaware.jpg?raw=true): a thriving city in the province of Eleinoch surrounded by stunning cliffs.
+  * [Elven City](maps/cities/elven-city.jpg?raw=true): a forest city with few constructed dwellings since the elves returned to living in the trees.
+  * [Angerthas](maps/cities/angerthas.jpg?raw=true): a city of strategic military importance, being midway between human and elven settlements and protected on one side by The Bottomless Crevasse.
+  * [The Caverns of Estramon](maps/cities/estramon-caverns.pdf?raw=true): the former dwelling of the Snake Men, deep below Estramon. Now occupied by the Lizard Men, which is not a great improvement. Other exiles have also found a home here, though none dare to venture to the lowest levels where more than a few adventurers have met their end.
 
 ## Characters (PCs)
 
